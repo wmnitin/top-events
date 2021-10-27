@@ -11,3 +11,5 @@ Used only React without TS, Redux but to make it scalable we must use any state 
 This project is also deployed here => https://stoic-jackson-eb7791.netlify.app/
 
 Also, added basic some test cases
+
+Use only web emojis for now 😀
